@@ -1,12 +1,4 @@
-# FIT2101Friday8AM
-
-Team members:
-- - - - 
-- Muhammad Aiman bin Shamsiemon
-- Sutulova Tatiana 
-- Suchit Krishna
-- Yong Zi Qian
-- Julia Lau Kaiwen
+# Monash Time Tracker
 
 - - - -
 - Shared Drive Link: (https://drive.google.com/drive/u/1/folders/0AAisWz1G-jmpUk9PVA)
